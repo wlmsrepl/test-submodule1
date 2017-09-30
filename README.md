@@ -1,2 +1,2 @@
 # test-submodule1
-update1 - submodule1
+update2 - submodule1
